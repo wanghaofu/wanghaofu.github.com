@@ -8,12 +8,12 @@ highlighter: null
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Tony Blog 
 tagline: Site Tagline
 author :
   name : Name Lastname
   email : blah@email.test
-  github :wanghaofu 
+  github : username 
   twitter : username
   feedburner : feedname
 
