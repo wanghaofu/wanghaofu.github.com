@@ -25,3 +25,4 @@ so you have do and do the detail plants
 * 劳动力的增加，收入的增加
 * 只要收入的增加这一方面大于成本的增加就是ok的
 
+1. ok this end
