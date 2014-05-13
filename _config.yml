@@ -11,11 +11,11 @@ highlighter: null
 title : Tony Blog 
 tagline: Site Tagline
 author :
-  name : wangtao 
-  email :   wanghaofu@163.com 
-  github :  wanghaofu
-  twitter : wanghaofu
-  feedburner : feedname
+  name: wangtao 
+  email: wanghaofu 
+  github: wanghaofu
+  twitte: wanghaofu
+  feedburner: feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
