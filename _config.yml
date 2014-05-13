@@ -13,8 +13,8 @@ tagline: Site Tagline
 author :
   name : wangtao 
   email : wanghaofu@163.com 
-  github : username 
-  twitter : username
+  github : wanghaofu 
+  twitter : wanghaofu
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
